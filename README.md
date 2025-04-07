@@ -182,13 +182,13 @@ project/
 
 # Details 
 
-Date: 09/02/2025
+Date: 07/04/2025
 
-Name : Mr. Aman Subhash Jambhulkar
+Name : Ms. Namrata Manoj Bahadur
 
-AICTE Student ID: STU66c049f07aac21723877872
+AICTE Student ID: STU67bc52c9bb3ac1740395209
 
-AICTE Internship ID: INTERNSHIP_173892172667a5d6fed4b6a
+AICTE Internship ID: INTERNSHIP_173951615267aee8f889303
 
-Internship Name : Full Stack Web Development with MERN (6-week Internship, commencing from 10th February 2025 to 21st March 2025)
+Internship Name : Full Stack Web Development with MERN (6-week Internship, commencing from 10th March 2025 to 18th April 2025)
 
